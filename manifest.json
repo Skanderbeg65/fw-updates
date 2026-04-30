@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "files": []
+  "files": [
+    {
+      "name": "AT661_MULTI_1_1.hex",
+      "url": "https://raw.githubusercontent.com/Skanderbeg65/fw-updates/main/AT661_MULTI_1_1.hex",
+      "sha256": ""
+    }
+  ]
 }
